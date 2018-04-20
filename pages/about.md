@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-description: 不忘初心，方得始终
-keywords: Wen Bin, Sasuke
+description: 愿你出走半生，归来仍是少年
+keywords: Bing ge, Beyong
 comments: true
 menu: 关于
 permalink: /about/
